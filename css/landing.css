@@ -1,0 +1,12 @@
+.navbar {
+	margin: 0;
+}
+
+.jumbotron	{
+	text-align: center;
+	background-size: cover;
+}
+
+body {
+	background-color: cyan;
+}
